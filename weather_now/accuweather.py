@@ -1,5 +1,5 @@
 import requests
-import json
+# import json
 
 def get_weather():
 

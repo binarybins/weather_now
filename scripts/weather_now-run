@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import requests
-import json
+# import json
 
 def get_weather():
 
